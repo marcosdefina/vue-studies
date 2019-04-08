@@ -1,6 +1,9 @@
 var App = new Vue({
     el: '#app',
     data:{
-        property: 'Joao Alfredo'
+        product: 'Socks',
+        image: 'img/vmSocks-green-onWhite.jpg',
+        link: 'https://www.google.com',
+        stock: true,
     }
 })
